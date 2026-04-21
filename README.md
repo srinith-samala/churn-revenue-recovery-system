@@ -81,7 +81,7 @@ The Power BI dashboard provides:
 * Recommended actions
 
 📌 *Dashboard preview:*
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/churn_dashboard.png)
 
 ---
 
